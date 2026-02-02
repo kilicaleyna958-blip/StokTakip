@@ -15,3 +15,4 @@ namespace StokTakip
         }
     }
 }
+// ilk commit
